@@ -1,0 +1,9 @@
+Package: dk.jonasboserup.playenable
+Name: Play Enable
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Support for Jailbroken devices in YouSee Play
+Maintainer: Jonas Boserup
+Author: Jonas Boserup
+Section: Tweaks
